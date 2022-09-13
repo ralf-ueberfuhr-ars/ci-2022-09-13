@@ -3,3 +3,4 @@
 - Döner
 - Nudeln
 - Lasagne
+- Sushi
