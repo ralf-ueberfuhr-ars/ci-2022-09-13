@@ -3,4 +3,8 @@
 - Döner
 - Nudeln
 - Lasagne
+<<<<<<< HEAD
 - Sushi
+=======
+- Suppe
+>>>>>>> my-branch2
