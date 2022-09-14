@@ -6,3 +6,4 @@
 - Sushi
 - Suppe
 - Sushi-Suppe
+- Fischbrötchen
